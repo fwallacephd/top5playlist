@@ -1,0 +1,35 @@
+/* FONTS
+ * font-family: 'Alfa Slab One', cursive;
+font-family: 'Gentium Book Basic', serif;
+ */
+
+ .headingRow {
+   border-bottom: 5px solid black;
+ }
+
+.title {
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.subTitle {
+  font-family: 'Gentium Book Basic', serif;
+}
+
+.copyright {
+  font-family: 'Gentium Book Basic', serif;
+}
+
+.artist,
+.song,
+.album {
+  font-family: 'Gentium Book Basic', serif;
+}
+.album-image {
+  width: 85%;
+}
+
+.album-image.animated {
+    animation-delay: .5s;
+    animation-duration: 2.5s;
+    animation-iteration-count: 1;
+}
